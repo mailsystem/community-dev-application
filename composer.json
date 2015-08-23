@@ -17,7 +17,6 @@
     "require": {
         "oro/platform": "1.7.*",
         "oro/crm": "1.7.*"
-	"mailsystem/community": "dev-master"
     },
     "config": {
         "component-dir": "web/bundles/components"
