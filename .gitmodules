@@ -1,0 +1,3 @@
+[submodule "src/Mailsystem"]
+	path = src/Mailsystem
+	url = git@github.com:mailsystem/community.git
