@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f842c628942b4a7ca09b6172ee5acd53",
+    "hash": "5928895eaa889cf8afff1b999e95cd14",
     "packages": [
         {
             "name": "a2lix/translation-form-bundle",
@@ -2919,7 +2919,7 @@
                     "email": "stof@notk.org"
                 },
                 {
-                    "name": "KnpLabs",
+                    "name": "Knplabs",
                     "homepage": "http://knplabs.com"
                 },
                 {
