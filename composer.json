@@ -16,6 +16,7 @@
         }
     ],
     "require": {
+        "akeneo/batch-bundle": "0.4.2",
         "oro/platform": "1.7.*",
         "oro/crm": "1.7.*"
     },
